@@ -40,3 +40,14 @@ main #T2 ul li {
   font-family: "DM Sans";
   color: black;
 }
+main #T3 {
+  padding: 0px 10px 0px 20px;
+}
+main #T3 h2 {
+  font-family: "DM Serif Display";
+  color: #824431;
+}
+main #T3 ul li {
+  font-family: "DM Sans";
+  color: black;
+}
