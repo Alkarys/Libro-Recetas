@@ -14,6 +14,7 @@ main {
   padding: 20px;
   border: 0px;
   border-radius: 30px;
+  object-fit: cover;
 }
 main #T1 {
   padding: 0px 10px 0px 20px;
@@ -51,3 +52,15 @@ main #T3 ul li {
   font-family: "DM Sans";
   color: black;
 }
+main #T4 {
+    padding: 0px 10px 0px 20px;
+  }
+  main #T4 h2 {
+    font-family: "DM Serif Display";
+    color: #824431;
+  }
+  main #T4 ul li {
+    font-family: "DM Sans";
+    color: black;
+    list-style: number;
+  }
