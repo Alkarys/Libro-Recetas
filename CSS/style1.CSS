@@ -1,0 +1,28 @@
+body {
+  background-color: #f3e5d8;
+}
+main {
+  max-width: 1000px;
+  margin: 20px auto;
+  background-color: white;
+  border-radius: 5px;
+}
+#Image img {
+  max-width: 950px;
+  display: block;
+  margin: auto;
+  padding: 20px;
+  border: 0px;
+  border-radius: 30px;
+}
+main #T1 {
+  padding: 0px 10px 10px 20px;
+}
+main #T1 > h1 {
+  font-family: "DM Serif Display";
+  color: #824431;
+}
+main #T1 > p {
+  font-family: "DM Sans";
+  color: black;
+}
