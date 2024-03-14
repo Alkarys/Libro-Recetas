@@ -16,13 +16,27 @@ main {
   border-radius: 30px;
 }
 main #T1 {
-  padding: 0px 10px 10px 20px;
+  padding: 0px 10px 0px 20px;
 }
 main #T1 > h1 {
   font-family: "DM Serif Display";
   color: #824431;
 }
 main #T1 > p {
+  font-family: "DM Sans";
+  color: black;
+}
+main #T2 {
+  max-width: 90%;
+  margin: 0 auto;
+  padding: 5px 15px;
+  border-radius: 10px;
+  background-color: #fff7fc;
+}
+main #T2 h2 {
+  color: #6b193b;
+}
+main #T2 ul li {
   font-family: "DM Sans";
   color: black;
 }
